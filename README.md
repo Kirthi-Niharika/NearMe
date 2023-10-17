@@ -49,7 +49,7 @@ Execute the programs and publish them.
 </center>
 </body>
 </html>
-
+```
 ## OUTPUT
 ![Alt text](exp4.png)
 ![Alt text](max.png)
@@ -58,7 +58,7 @@ Execute the programs and publish them.
 ![Alt text](royal.png) 
 ![Alt text](green.png)
 
-```
+
 
 
 ## HTML VALIDATOR
