@@ -51,14 +51,13 @@ Execute the programs and publish them.
 </html>
 ```
 ## OUTPUT
-![Alt text](exp4.png)
-![Alt text](max.png)
-![Alt text](dmart.png)
-![Alt text](evp.png)
-![Alt text](royal.png) 
-![Alt text](green.png)
 
-
+![Alt text](exp4-1.png)
+![Alt text](max-1.png)
+![Alt text](dmart-1.png)
+![Alt text](evp-1.png)
+![Alt text](royal-1.png)
+![Alt text](green-1.png)
 
 
 ## RESULT
