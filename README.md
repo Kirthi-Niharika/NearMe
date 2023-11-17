@@ -51,14 +51,13 @@ Execute the programs and publish them.
 </html>
 ```
 ## OUTPUT
-
-![Alt text](exp4.png)
-![Alt text](max.png)
-![Alt text](dmart.png)
-![Alt text](evp.png)
-![Alt text](royal.png)
-![Alt text](green.png)
-
+<img width="960" alt="exp4" src="https://github.com/Kirthi-Niharika/NearMe/assets/114135005/c579e53a-a504-4392-b7ab-888a135aaf98">
+<img width="960" alt="royal" src="https://github.com/Kirthi-Niharika/NearMe/assets/114135005/23f31bd4-e9dd-4bb7-9e90-4b7ad7da69f2">
+<img width="960" alt="max" src="https://github.com/Kirthi-Niharika/NearMe/assets/114135005/b391de02-4807-4b5c-9731-871cf986a6d0">
+<img width="960" alt="exp4" src="https://github.com/Kirthi-Niharika/NearMe/assets/114135005/f65cafdb-d17b-4550-aacd-508709d08103">
+<img width="960" alt="dmart" src="https://github.com/Kirthi-Niharika/NearMe/assets/114135005/95a7b712-b294-48c4-8334-a2c9c0d7011c">
+<img width="960" alt="evp" src="https://github.com/Kirthi-Niharika/NearMe/assets/114135005/9f89522c-dadf-468c-b9c9-d66c0e22bf57">
+<img width="960" alt="green" src="https://github.com/Kirthi-Niharika/NearMe/assets/114135005/32758bce-894f-4789-a70b-137022fc80d8">
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
